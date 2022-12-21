@@ -1,6 +1,6 @@
 # Rajas Gujarathi
 
-<div data-iframe-width="270" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
 
@@ -16,7 +16,7 @@ DevOps Engineer & AWS Architect with 10+ years of hands-on experience in archite
 
 ## Professional Experience
 
-### Tata Consultancy Services (TCS) (2016 - Present)
+### Tata Consultancy Services (TCS) 📆 (2016 - Present)
 
 #### AWS Architect & DevOps Engineer (2020 - Present)
 
