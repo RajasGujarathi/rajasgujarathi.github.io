@@ -7,7 +7,6 @@
     </picture>
     <a style="float:right" href = "mailto: gujarathirajas@gmail.com"> 📧 gujarathirajas@gmail.com </a>
 </div>
-<br />
 
 DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
 
