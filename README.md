@@ -1,7 +1,5 @@
 # Rajas Gujarathi
 
-<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
 
 ## Certifications
@@ -85,3 +83,14 @@ Human Resource (HR)
 ### Bachelor of Engineering (2007 - 2011)
 
 Major in Electronics and Telecommunications
+
+## Digital Badges
+
+<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="72dba32c-cb0b-44e8-a9f5-f6ead3e347c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="b555a04b-37fd-471b-9917-3ab94b4d7b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="abb4dfef-7348-492c-afcc-748251f54ad8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
