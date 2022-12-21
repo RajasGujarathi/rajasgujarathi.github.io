@@ -1,3 +1,7 @@
+<div style="text-align: right">
+<a href = "mailto: gujarathirajas@gmail.com">📧 gujarathirajas@gmail.com</a> </div>
+<div style="text-align: right">  <a href="https://www.linkedin.com/in/rajasgujarathi/"> LinkedIn - rajasgujarathi</a></div>
+
 # Rajas Gujarathi
 
 DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
@@ -33,19 +37,6 @@ DevOps Engineer & AWS Architect with 10+ years of hands-on experience in archite
 * Managed infrastructure and system during growth from a few customers to 1500+ commercial customers
 
 * Deployed and managed scalable applications running on AWS-ECS, and introduced optimization; which resulted in a 99% availability and increased stability by 15%
-  
-<details>
-<summary>AWS Services</summary>
-
-| Compute | Container | Application Integration | Database | Analytics |
-| :--: | :--: | :--: | :--: | :--: |
-| EC2 | Elastic Container Registry | EventBridge | RDS | Athena |
-| Lambda | Elastic Container Service | Simple Notification Service |DynamoDB | Kinesis|
-| Batch | | Simple Queue Service | ElasticCache| Data Pipeline |
-| Serverless Application Repository | |  | Neptune| Glue|
-
-
-</details>
 
 #### Technical Lead 📆 2016 - 2018
 
