@@ -1,8 +1,11 @@
-<div style="text-align: right">
-<a href = "mailto: gujarathirajas@gmail.com">📧 gujarathirajas@gmail.com</a> </div>
-<div style="text-align: right">  <a href="https://www.linkedin.com/in/rajasgujarathi/"> LinkedIn - rajasgujarathi</a></div>
-
 # Rajas Gujarathi
+
+Contact Details:
+<div style="text-align: left">
+<a href = "mailto: gujarathirajas@gmail.com">📧 gujarathirajas@gmail.com</a> </div>
+<div style="text-align: left">  <a href="https://www.linkedin.com/in/rajasgujarathi/"> LinkedIn - rajasgujarathi</a></div>
+
+---
 
 DevOps Engineer & AWS Architect with 10+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Led teams of 5-15 people across technology, business, and design departments. Adept at developing solutions and determining customer satisfaction.
 
