@@ -84,13 +84,50 @@ Human Resource (HR)
 
 Major in Electronics and Telecommunications
 
+## AWARDS
+
+### TECHNICAL EXCELLENCE AWARD from Product Owner (2022)
+
+The way you lead the Cloud Team in critical delivery has been appreciated by our customers. You are a role model for our payments Teams. I'm proud of having you on the project team.
+
+### CONTEXTUAL MASTER AWARD (2021)
+
+Revamped implementation of “Payment Banking Solution that scales on demand”
+
+### APPRECIATION from Customers Program Head (2020)
+
+Management and I have noticed the great effort you are putting in to get the project running in good
+shape to meet our customer’s expectations! I want you all to know that we appreciate your effort and
+especially in these, for all of us, challenging times. Stars like you keep us going … Thanks for your efforts
+
+### BEST TEAM (2018)
+
+For completing the project milestone on time
+
+### ON THE SPOT AWARD (2017)
+
+Appreciate Rajas' effort in completing the Delivery. He leads the overall project activities, coordinated with
+the client team and ensured that the bugs are closed on time. He motivated the team to complete the
+delivery.
+
+### PAT ON THE BACK (2015)
+
+Appreciate your attitude & enthusiasm shown towards work. You accepted the challenge and managed a
+5-member cross-functional (product, engineering, sales, support) team and coordinated with three
+business partners toward the successful crucial client delivery. You are taking initiative to improve the
+process & it’s much appreciated. Well done. Keep it up.
+
 ## Digital Badges
 
-<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="72dba32c-cb0b-44e8-a9f5-f6ead3e347c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="b555a04b-37fd-471b-9917-3ab94b4d7b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="1000" data-iframe-height="270" data-share-badge-id="abb4dfef-7348-492c-afcc-748251f54ad8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="babef91f-9c72-49cf-b4e6-f24eecd64b41" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+<td style="width: 50%;"><div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="72dba32c-cb0b-44e8-a9f5-f6ead3e347c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+</tr>
+<tr>
+<td style="width: 50%;"><div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="b555a04b-37fd-471b-9917-3ab94b4d7b96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+<td style="width: 50%;"><div data-iframe-width="500" data-iframe-height="270" data-share-badge-id="abb4dfef-7348-492c-afcc-748251f54ad8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+</tr>
+</tbody>
+</table>
