@@ -33,6 +33,36 @@ DevOps Engineer & AWS Architect with 10+ years of hands-on experience in archite
 * Managed infrastructure and system during growth from a few customers to 1500+ commercial customers
 
 * Deployed and managed scalable applications running on AWS-ECS, and introduced optimization; which resulted in a 99% availability and increased stability by 15%
+  
+<details>
+<summary>AWS Services</summary>
+
+| Compute | Container | Application Integration | Database | Analytics |
+| :--: | :--: | :--: | :--: | :--: |
+| EC2 | Elastic Container Registry | EventBridge | RDS | Athena |
+| Lambda | Elastic Container Service | Simple Notification Service |DynamoDB | Kinesis|
+| Batch | | Simple Queue Service | ElasticCache| Data Pipeline |
+| Serverless Application Repository | |  | Neptune| Glue|
+
+| Network & Content Delivery | Developer Tools | Management & Governance | Machine Learning | Security, Identify & Compliance |
+| :--: | :--: | :--: | :--: | :--: |
+| VPC | Code Build | AWS Organization | Sagemaker - Notebook | IAM |
+| CloudFront | Code Pipeline | CloudWatch | CodeGuru | Resource Access Manager |
+| R53 | CloudShell | AWS Auto Scaling| | Secrets Manager |
+| API Gateway | X-Ray | CloudFormation | | Guard Duty |
+| | | CloudTrail | | Inspector |
+| | | Config | | IAM Identity Center |
+| | | Systems Manager | | Certificate Manager |
+| | | Trusted Advisor | | Key Management Service |
+| | | Personal Health Dashboard | | WAF & Shield |
+| | | AWS Compute Optimiser | | |
+
+| Migration & Transfer  | Cost Management | Storage  | Business Application |
+| :--: | :--: | :--: | :--: |
+| Database Migration Service | Cost Explorer | S3 | Simple Email Service |
+|  | Budgets |  | |
+
+</details>
 
 #### Technical Lead 📆 2016 - 2018
 
