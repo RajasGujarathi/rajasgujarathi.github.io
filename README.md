@@ -6,9 +6,9 @@
 | :exclamation:  This is very important   |
 |-----------------------------------------|
 
-| :warning: WARNING          |
-|:---------------------------|
-| I should warn you ...      |
+| ⚠️ WARNING                    |
+|:------------------------------:|
+| The content is getting updated |
 
 <div style="text-align: left">
     <picture>
