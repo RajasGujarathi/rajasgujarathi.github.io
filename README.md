@@ -1,14 +1,8 @@
 # Rajas Gujarathi
 
-> **Warning**
-> The content is getting updated
-
-| :exclamation:  This is very important   |
-|-----------------------------------------|
-
-| ⚠️ WARNING                    |
-|:------------------------------:|
-| The content is getting updated |
+|  👷 Note                                   |
+|:--------------------------------------------|
+| The content of this page is getting updated |
 
 <div style="text-align: left">
     <picture>
