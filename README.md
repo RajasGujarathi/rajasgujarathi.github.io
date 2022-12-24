@@ -46,25 +46,6 @@ DevOps Engineer & AWS Architect with 10+ years of hands-on experience in archite
 
 * Deployed and managed scalable applications running on AWS-ECS, and introduced optimization; which resulted in a 99% availability and increased stability by 15%
 
-<details>
-<summary>AWS Services</summary>
-
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
-| Compute | Container | Application Integration | Database | Analytics |
-|:-----:|:-------:|:---------------------:|:------:|:-------:|
-| EC2     | Elastic Container Registry | EventBridge | RDS | Athena |
-| Lambda  | Elastic Container Service | Simple Notification Service |DynamoDB | Kinesis|
-| Batch   |  | Simple Queue Service | ElasticCache| Data Pipeline |
-| Serverless Application Repository | |  | Neptune| Glue|
-{: .tablelines}
-
-</details>
-
 #### Technical Lead 📆 2016 - 2018
 
 * Spearheaded Continuous Delivery systems that improved ship time by 20%
