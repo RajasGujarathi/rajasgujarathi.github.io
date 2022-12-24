@@ -1,5 +1,8 @@
 # Rajas Gujarathi
 
+> **Warning**
+> The content is getting updated
+
 <div style="text-align: left">
     <picture>
         <img style="vertical-align:middle" alt="LinkedIn-Logo" src="assets/images/In-Blue-14.png">
@@ -92,7 +95,7 @@ Human Resource (HR)
 
 Major in Electronics and Telecommunications
 
-## 👏 Awards
+## 🏆 Awards
 
 ### Technical Excellence Award from _Product Owner_ 📆 2022
 
