@@ -3,6 +3,13 @@
 > **Warning**
 > The content is getting updated
 
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+
+| :warning: WARNING          |
+|:---------------------------|
+| I should warn you ...      |
+
 <div style="text-align: left">
     <picture>
         <img style="vertical-align:middle" alt="LinkedIn-Logo" src="assets/images/In-Blue-14.png">
