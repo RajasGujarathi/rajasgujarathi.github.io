@@ -1,9 +1,5 @@
 # Rajas Gujarathi
 
-|  👷 Note                                   |
-|:--------------------------------------------|
-| The content of this page is getting updated |
-
 <div style="text-align: left">
     <picture>
         <img style="vertical-align:middle" alt="LinkedIn-Logo" src="assets/images/In-Blue-14.png">
